@@ -3,7 +3,7 @@
     "description": "World Cup Qualifying Matches",
     "location": {
       "name": "Maracanã Stadium",
-      "image": "TODO"
+      "image": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-vista-aerea.jpg"
     },
     "homeTeam": {
       "name": "Brazil",
@@ -19,8 +19,8 @@
   {
   "description": "World Cup Qualifying Matches",
   "location": {
-    "name": "Centenário Stadium",
-    "image": "TODO"
+    "name": "Centenario Stadium",
+    "image": "https://www.cronicas.com.uy/wp-content/uploads/2021/12/philips.jpg"
   },
   "homeTeam": {
     "name": "South Korea",
@@ -37,7 +37,7 @@
   "description": "World Cup Qualifying Matches",
   "location": {
     "name": "Mineirão Stadium",
-    "image": "TODO"
+    "image": "https://www.estadios.net/wp-content/uploads/2018/12/estadio-mineirao.jpg"
   },
   "homeTeam": {
     "name": "Germany",
