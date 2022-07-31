@@ -1,1 +1,19 @@
-
+[
+  {
+    "description": "World Cup Qualifying Matches",
+    "location": {
+      "name": "Maracanã Stadium",
+      "image": "TODO"
+    },
+    "homeTeam": {
+      "name": "Brazil",
+      "power": 5,
+      "image": "TODO"
+    },
+    "awayTeam": {
+      "name": "Argentina",
+      "power": 5,
+      "image": "TODO"
+    }
+  }
+]
