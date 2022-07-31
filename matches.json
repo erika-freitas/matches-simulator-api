@@ -11,9 +11,44 @@
       "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "awayTeam": {
-      "name": "South Korea",
-      "power": 3,
-      "image": "https://www.bandeirasnacionais.com/data/flags/normal/kr.png"
+      "name": "Argentina",
+      "power": 5,
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+  {
+  "description": "World Cup Qualifying Matches",
+  "location": {
+    "name": "Centenário Stadium",
+    "image": "TODO"
+  },
+  "homeTeam": {
+    "name": "South Korea",
+    "power": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/kr.png"
+  },
+  "awayTeam": {
+    "name": "China",
+    "power": 3,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/cn.png"
   }
+},
+  {
+  "description": "World Cup Qualifying Matches",
+  "location": {
+    "name": "Mineirão Stadium",
+    "image": "TODO"
+  },
+  "homeTeam": {
+    "name": "Germany",
+    "power": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
+  },
+  "awayTeam": {
+    "name": "Italy",
+    "power": 4,
+    "image": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
+  }
+}
+  
 ]
