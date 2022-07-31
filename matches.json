@@ -8,12 +8,12 @@
     "homeTeam": {
       "name": "Brazil",
       "power": 5,
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "awayTeam": {
       "name": "Argentina",
       "power": 5,
-      "image": "TODO"
+      "image": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
